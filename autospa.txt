@@ -1,11 +1,13 @@
 
+
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Home| Auto Spa Bistro</title>
+    <title>Home| Pretty Car Wash-PCW</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/cssgrid.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/main.css" />
@@ -22,9 +24,7 @@
         <div class="container">
             <div class="hero-header"> 
                 <a href="/index.html">
-                    <div class="logo">
-                        <img src="images/logo.png" alt="logo">
-                    </div>
+                    
                 </a>
                 <div class="nav  auth-menu" hidden>
                     <label for="toggle-auth">&#9776;</label>
@@ -46,8 +46,8 @@
             </div>
             <div class="hero-content">
                 <h1 class="title pop-in">
-                    Auto
-                    <span class="narrow-font">Spa Bistro</span>
+                    PCW
+                    <span class="narrow-font"> PrettyCarWash</span>
                 </h1>
                 <p class="desc pop-in">
                     Exclusive Servicing & Car Detailing Venue
@@ -60,10 +60,10 @@
     </header>
     <section class="yellow-bg center-content">
         <p class="sub-title">
-            Auto Spa Bistro
+            PCW
         </p>
         <h2>
-            <span class="narrow-font">Spa Bistro </span>Advantage.</h2>
+            <span class="narrow-font"></span>Advantage.</h2>
         <div class="container">
             <div class="card-deck">
                 <div class="card advantage-card">
@@ -81,7 +81,7 @@
                         Exclusive Servicing
                     </h5>
                     <p>
-                        All type of model cars
+                        Any type of car models
                     </p>
                 </div>
                 <div class="card advantage-card">
@@ -107,17 +107,17 @@
                         Know More About Us
                     </p>
                     <h2>
-                        <span class="narrow-font">Auto </span>Spa Bistro</h2>
+                        <span class="narrow-font">PCW</span> Carwash</h2>
                     <div class="orange-line"></div>
                     <p>
-                        Auto Spa Bistro is Atlanta's exclusive car detailing servicing up more than just washes, cleaning, polishing!
+                        PCW is Atlanta's exclusive car detailing servicing up more than just washes, cleaning, polishing!
                     </p>
                     <p>
                         Every cleaner is trusted and reliable. They’ve been background-checked & trained well
                     </p>
-                    
-                    
-                        General Manager RUpa Sree
+                    <img src="./images/signature.png" id="signature" alt="signature">
+                    <p class="signature">
+                        General Manager - Rupa Sree
                     </p>
                 </div>
 
@@ -142,10 +142,10 @@
     <section class="yellow-bg center-content">
         <div class="container">
             <p class="sub-title">
-                Auto Spa Bistro
+                PCW
             </p>
             <h2>
-                <span class="narrow-font">Spa </span>Memberships.
+                <span class="narrow-font"></span>Memberships.
             </h2>
             <div class="card-deck">
                 <div class="card">
@@ -258,7 +258,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 space-below">
-                    <img src="images/logofooter.png" alt="logo">
+                    
                     <p>
                         We offer the best car washing, car detailing, rubbing & buffing services. For more details please Contact to below number.
                     </p>
@@ -296,7 +296,7 @@
                     <h4>Our Info</h4>
                     <ul class="triangle">
                         <li>348 14th St NW, </br>Atlanta, GA 30309</li>
-                        <li>contact@autospabistro.com</li>
+                        <li>contact@prettycarwash.com</li>
                     </ul>
                 </div>
 
@@ -305,7 +305,7 @@
     </footer>
     <div class="copywrite container center-content">
         <div class="copywrite-left">
-            <p>@2022 Spa Bistro</p>
+            <p>@2022 car wash</p>
         </div>
         <div class="copywrite-right">
             <a href="https://www.facebook.com/autospabistro/" target="blank">
