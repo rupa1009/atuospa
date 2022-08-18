@@ -263,7 +263,7 @@
                         We offer the best car washing, car detailing, rubbing & buffing services. For more details please Contact to below number.
                     </p>
                     <h3 class="footer-phone">
-                        678.974.8187
+                        123.456.7890
                     </h3>
                 </div>
                 <div class="col-lg-4 spacing-left space-below ">
@@ -305,7 +305,7 @@
     </footer>
     <div class="copywrite container center-content">
         <div class="copywrite-left">
-            <p>@2019 Spa Bistro</p>
+            <p>@2022 Spa Bistro</p>
         </div>
         <div class="copywrite-right">
             <a href="https://www.facebook.com/autospabistro/" target="blank">
